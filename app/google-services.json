@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "863954282455",
+    "firebase_url": "https://mobile-8fcc0-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "mobile-8fcc0",
+    "storage_bucket": "mobile-8fcc0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863954282455:android:17ee94fec9edae8ef8cd92",
+        "android_client_info": {
+          "package_name": "com.informatika.moneytracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "863954282455-p5le84rgfv5oka58q64qin9a1jsp9qvs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZPKuRw1FQD-QL7Hw-Z870Yiv4ztiCiiM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "863954282455-p5le84rgfv5oka58q64qin9a1jsp9qvs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
