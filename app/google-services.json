@@ -1,37 +1,65 @@
 {
   "project_info": {
-    "project_number": "863954282455",
-    "firebase_url": "https://mobile-8fcc0-default-rtdb.asia-southeast1.firebasedatabase.app",
-    "project_id": "mobile-8fcc0",
-    "storage_bucket": "mobile-8fcc0.firebasestorage.app"
+    "project_number": "159871794675",
+    "firebase_url": "https://joki-pam-default-rtdb.asia-southeast1.firebasedatabase.app/",
+    "project_id": "joki-pam",
+    "storage_bucket": "joki-pam.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:863954282455:android:17ee94fec9edae8ef8cd92",
+        "mobilesdk_app_id": "1:159871794675:android:e549229c81fd8f8a5ea686",
         "android_client_info": {
           "package_name": "com.informatika.moneytracker"
         }
       },
-      "oauth_client": [
-        {
-          "client_id": "863954282455-p5le84rgfv5oka58q64qin9a1jsp9qvs.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
+      "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyCZPKuRw1FQD-QL7Hw-Z870Yiv4ztiCiiM"
+          "current_key": "AIzaSyCyz7kEh0BRvmrIwCggvraSR8RGFznCz4o"
         }
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "863954282455-p5le84rgfv5oka58q64qin9a1jsp9qvs.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159871794675:android:40c62cbe4af090805ea686",
+        "android_client_info": {
+          "package_name": "com.pam.crud_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyz7kEh0BRvmrIwCggvraSR8RGFznCz4o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159871794675:android:ada2f713a04d5c625ea686",
+        "android_client_info": {
+          "package_name": "com.pam.tugasakhir"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyz7kEh0BRvmrIwCggvraSR8RGFznCz4o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
         }
       }
     }
